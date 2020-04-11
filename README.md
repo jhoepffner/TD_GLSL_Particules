@@ -1,0 +1,1 @@
+Cette série de tutoriel est une introduction à l'utilisation des texturs et du GLSL pour générer des particules
