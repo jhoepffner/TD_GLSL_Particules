@@ -8,3 +8,5 @@ Cette série de tutoriel est une introduction à l'utilisation des textures et d
 <br>https://vimeo.com/410369354
 <br>partie 4 Compute Shader
 <br>https://vimeo.com/412127757
+<br>le lien vers mon site
+<br>http://hoepffner.info
